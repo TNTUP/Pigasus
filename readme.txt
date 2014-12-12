@@ -1,5 +1,6 @@
 Pigasus - Make pigs fly! (and other mobs too)
-Version: v0.1
+Version: v0.3
+Forked by tnt <3
 
 Watch out, pigs will fly after you install this plugin. At spawn, a configurable 
 percentage of mobs will take off and fly around. The effect works very well for 
