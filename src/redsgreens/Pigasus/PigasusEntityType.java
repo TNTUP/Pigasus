@@ -13,5 +13,12 @@ public enum PigasusEntityType {
 	Creeper,
 	Slime,
 	PigZombie,
+	Rabbit,
+	Villager,
+	Horse,
+	Endermite,
+	Enderman,
+	Guardian,
+	Giant,
 	Unknown
 }
