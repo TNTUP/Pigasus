@@ -89,6 +89,12 @@ public class PigasusFlyingEntity {
 		else if(e instanceof Creeper) return PigasusEntityType.Creeper;
 		else if(e instanceof Slime) return PigasusEntityType.Slime;
 		else if(e instanceof PigZombie) return PigasusEntityType.PigZombie;
+		else if(e instanceof Rabbit) return PigasusEntityType.Rabbit;
+		else if(e instanceof Villager) return PigasusEntityType.Villager;
+		else if(e instanceof Endermite) return PigasusEntityType.Endermite;
+		else if(e instanceof Enderman) return PigasusEntityType.Enderman;
+		else if(e instanceof Guardian) return PigasusEntityType.Guardian;
+		else if(e instanceof Giant) return PigasusEntityType.Giant;
 		else return PigasusEntityType.Unknown;
 	}
 	
